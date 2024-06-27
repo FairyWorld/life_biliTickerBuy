@@ -61,6 +61,13 @@ Running on local URL:  http://127.0.0.1:xxx
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/FairyWorld">
+                    <img src="https://avatars.githubusercontent.com/u/32956212?v=4" width="100;" alt="FairyWorld"/>
+                    <br />
+                    <sub><b>天使</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mikumifa">
                     <img src="https://avatars.githubusercontent.com/u/99951454?v=4" width="100;" alt="mikumifa"/>
                     <br />
@@ -95,6 +102,8 @@ Running on local URL:  http://127.0.0.1:xxx
                     <sub><b>ChillWay</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ChisatoNishikigi73">
                     <img src="https://avatars.githubusercontent.com/u/89033115?v=4" width="100;" alt="ChisatoNishikigi73"/>
@@ -102,8 +111,6 @@ Running on local URL:  http://127.0.0.1:xxx
                     <sub><b>Chisato73</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/shirok1">
                     <img src="https://avatars.githubusercontent.com/u/12044683?v=4" width="100;" alt="shirok1"/>
